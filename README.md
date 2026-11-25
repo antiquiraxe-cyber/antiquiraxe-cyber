@@ -8,10 +8,6 @@
 
 <br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=antiquiraxe-cyber&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=antiquiraxe-cyber&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
@@ -184,6 +180,26 @@ motto     : "Code hard, ship harder."
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+<div align="center">
+
+## SUMMARY_CARDS
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antiquiraxe-cyber&theme=github_dark&animation=load" alt="profile details"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antiquiraxe-cyber&theme=github_dark&animation=draw" alt="repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antiquiraxe-cyber&theme=github_dark&animation=draw" alt="most commit language"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antiquiraxe-cyber&theme=github_dark&animation=stagger" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antiquiraxe-cyber&theme=github_dark&timeZone=Asia/Jakarta&animation=rgb-soft" alt="productive time"/>
+
 </div>
 
 ---
