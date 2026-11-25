@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/antiquiraxe-cyber/antiquiraxe-cyber/main/assets/banner.svg" width="100%" alt="Vtoraxe | antiquiraxe-cyber banner"/>
 
-### ⚡ Hi there, I'm **Sakha Yusuf** — aka **Vtoraxe** ⚡
+### Hi, I'm **Sakha Yusuf** — aka **Vtoraxe**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=640&height=70&lines=Full-Stack+Developer+%7C+Mobile+%2B+Web;Flutter+%7C+Laravel+%7C+TypeScript+%7C+PHP;C%2B%2B+%7C+JavaScript+%7C+Blade;Building+Things+That+Actually+Work" alt="typing" />
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧬 ABOUT_ME
+## ABOUT_ME
 
 ```yaml
 name      : Sakha Yusuf
@@ -33,7 +33,7 @@ motto     : "Code hard, ship harder."
 
 <div align="center">
 
-### 🛠️ TECH STACK
+### TECH STACK
 
 <img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel,blade,ts,js,html,css,bootstrap,tailwind,cpp,c,mysql,git,github,vscode,androidstudio&perline=9" alt="skills"/>
 
@@ -46,18 +46,18 @@ motto     : "Code hard, ship harder."
 <tr>
 <td>
 
-### 💻 WEB DEV
+### WEB DEV
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </td>
 <td>
 
-### 📱 MOBILE DEV
+### MOBILE DEV
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -66,11 +66,11 @@ motto     : "Code hard, ship harder."
 </td>
 <td>
 
-### ⚙️ SYSTEMS / TOOLS
+### SYSTEMS / TOOLS
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
@@ -83,7 +83,7 @@ motto     : "Code hard, ship harder."
 
 <div align="center">
 
-## 🔥 HEATMAP
+## HEATMAP
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antiquiraxe-cyber&bg_color=0d1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&area_color=00F5FF&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -91,14 +91,14 @@ motto     : "Code hard, ship harder."
 
 ---
 
-## 🚀 FEATURED_PROJECTS
+## FEATURED_PROJECTS
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-#### 📱 Sakha-Yusuf-Kelompok-2-KH002
+#### Sakha-Yusuf-Kelompok-2-KH002
 > **Project Akhir Pemrograman Mobile** — Aplikasi mobile final project kampus.
 
 `Dart` `Flutter`
@@ -108,7 +108,7 @@ motto     : "Code hard, ship harder."
 </td>
 <td width="50%">
 
-#### 🌐 WEB-PORTOFOLIO-YUSUF
+#### WEB-PORTOFOLIO-YUSUF
 > **Portofolio Web Personal** — Full TypeScript, modern & responsive.
 
 `TypeScript`
@@ -120,7 +120,7 @@ motto     : "Code hard, ship harder."
 <tr>
 <td width="50%">
 
-#### 🎭 mr-whiteweb
+#### mr-whiteweb
 > **Web Game Mr. White** — Game deduksi sosial berbasis Laravel.
 
 `Laravel` `Blade`
@@ -130,7 +130,7 @@ motto     : "Code hard, ship harder."
 </td>
 <td width="50%">
 
-#### 🏎️ FULL-THROTTLE
+#### FULL-THROTTLE
 > **Full Throttle** — Project web racing/go-kart penuh gas.
 
 `Laravel` `Blade`
@@ -142,7 +142,7 @@ motto     : "Code hard, ship harder."
 <tr>
 <td width="50%">
 
-#### ⛰️ mount-of-java
+#### mount-of-java
 > **Mount of Java** — Eksplorasi JavaScript project.
 
 `JavaScript`
@@ -152,7 +152,7 @@ motto     : "Code hard, ship harder."
 </td>
 <td width="50%">
 
-#### 🐻 HoldMyBear
+#### HoldMyBear
 > **Hold My Bear** — Interactive JavaScript experience.
 
 `JavaScript`
@@ -164,7 +164,7 @@ motto     : "Code hard, ship harder."
 <tr>
 <td width="50%">
 
-#### 🏁 Web-Gokart / laravel-gokart / Gokart
+#### Web-Gokart / laravel-gokart / Gokart
 > **Go-Kart Series** — Sistem web pemesanan & manajemen go-kart.
 
 `PHP` `Laravel` `Blade`
@@ -174,7 +174,7 @@ motto     : "Code hard, ship harder."
 </td>
 <td width="50%">
 
-#### 💻 Sakha-Yusuf-Kelompok-2-KH002-Praktikum
+#### Sakha-Yusuf-Kelompok-2-KH002-Praktikum
 > **Praktikum C++** — Kumpulan tugas praktikum pemrograman dasar.
 
 `C++`
@@ -190,7 +190,7 @@ motto     : "Code hard, ship harder."
 
 <div align="center">
 
-## 📊 GITHUB_STATS
+## GITHUB_STATS
 
 <img src="https://github-readme-stats.vercel.app/api?username=antiquiraxe-cyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&ring_color=00F5FF&rank_icon=github" height="180" alt="stats"/>
 
@@ -200,19 +200,13 @@ motto     : "Code hard, ship harder."
 
 <img src="https://streak-stats.demolab.com?user=antiquiraxe-cyber&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=00F5FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" alt="streak"/>
 
-<br/>
-
-### 🏆 GITSTREAK TROPHY
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=antiquiraxe-cyber&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
 
 <div align="center">
 
-## 🐍 SNAKE_EATING_MY_CONTRIBUTIONS
+## SNAKE_EATING_MY_CONTRIBUTIONS
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antiquiraxe-cyber/antiquiraxe-cyber/output/github-snake-dark.svg">
@@ -226,7 +220,7 @@ motto     : "Code hard, ship harder."
 
 <div align="center">
 
-## 🤝 CONNECT_WITH_ME
+## CONNECT_WITH_ME
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antiquiraxe-cyber)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
@@ -234,14 +228,6 @@ motto     : "Code hard, ship harder."
 
 <br/><br/>
 
-### ✍️ RANDOM_DEV_QUOTE
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake2" width="100%"/>
-
-### ⚡ *"Code hard, ship harder."* ⚡
+### *"Code hard, ship harder."*
 
 </div>
