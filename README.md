@@ -9,6 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=antiquiraxe-cyber&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://img.shields.io/github/followers/antiquiraxe-cyber?label=Followers&style=for-the-badge&color=00F5FF&logo=github&logoColor=white" alt="followers"/>
 
 </div>
 
@@ -16,13 +17,17 @@
 
 ## ABOUT_ME
 
-```yaml
-name      : Sakha Yusuf
-alias     : Vtoraxe
-focus     : Mobile Development (Flutter / Dart) + Web (Laravel / TypeScript)
-stack     : Dart, TypeScript, JavaScript, PHP, C++, Blade
-currently : Final Project — Pemrograman Mobile (Kelompok 2 KH002)
-motto     : "Code hard, ship harder."
+```
+$ whoami
+Sakha Yusuf — alias Vtoraxe
+$ cat focus.txt
+Mobile Development (Flutter / Dart) + Web (Laravel / TypeScript)
+$ ls stack/
+Dart  TypeScript  JavaScript  PHP  C++  Blade
+$ cat now.txt
+Final Project — Pemrograman Mobile (Kelompok 2 KH002)
+$ echo $MOTTO
+Code hard, ship harder.
 ```
 
 <br/>
@@ -244,6 +249,6 @@ motto     : "Code hard, ship harder."
 
 <br/><br/>
 
-### *"Code hard, ship harder."*
+<img src="https://raw.githubusercontent.com/antiquiraxe-cyber/antiquiraxe-cyber/main/assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
